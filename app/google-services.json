@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960424053429",
+    "firebase_url": "https://memodog-movies-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "memodog-movies",
+    "storage_bucket": "memodog-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960424053429:android:abb6594d5c2eabe7008cfc",
+        "android_client_info": {
+          "package_name": "com.alakey.memodogmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960424053429-8fem1ocivcge0snmpso9i684hi8553sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYYHb3aNOSTnipslx_AzeXapyrHX4mCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960424053429-8fem1ocivcge0snmpso9i684hi8553sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
